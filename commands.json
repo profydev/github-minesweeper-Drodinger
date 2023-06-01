@@ -28,6 +28,7 @@
     "clear B1",
     "flag B2",
     "flag A1",
-    "clear A2"
+    "clear A2",
+    "flag E2"
   ]
 }
